@@ -6,7 +6,7 @@ En este segundo Proyecto se nos solicito la creacion de un modelo de aprendizaje
 llamado Train, que el mismo fue el que utilize para entrenar dicho algoritmo.
 Tambien se nos brindo un dataset llamado test para que pongamos a prueba la eficiencia de nuestro modelo.
 Lo que debiamos tener en cuenta para esta clasificacion era dicho precio de este inmueble, si el mismo era menor a USD 999 deberia ser clasificado como low o 1
-y si el precio del inmuble era mayor a 999 deberia ser clasficado como high o 0.
+y si el precio del inmuble era mayor a USD999 deberia ser clasficado como high o 0.
 
 
 #Eda.
